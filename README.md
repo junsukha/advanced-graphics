@@ -1,5 +1,5 @@
 # Brown csci 2240 Advanced Graphics Final Project
-This repo is the final project of csci 2240 at Brown.  
+This repo is the final project of csci 2240 Advanced Graphics taught by Professor Daniel Ritchie at Brown.  
 I worked on 3d scene reconstruction using voxel-neural field as scene representation.  
 You can use the model by running `python main.py`  
 
